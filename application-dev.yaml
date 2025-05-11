@@ -1,0 +1,4 @@
+echo:
+  message:
+    text: 'This is my DEV!!'
+    label: "This DEV World!!"
