@@ -1,4 +1,4 @@
 echo:
   message:
-    text: 'This is my PROD-849589485!!'
+    text: 'This is my PROD-849-589-485!!'
     label: "This PROD World!!"
