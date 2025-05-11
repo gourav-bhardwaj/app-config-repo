@@ -1,4 +1,4 @@
 echo:
   message:
     text: 'Hello, world!'
-    message: "This World!!"
+    label: "This World!!"
