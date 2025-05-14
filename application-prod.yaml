@@ -5,10 +5,17 @@ echo:
 
 
 spring:
+  # datasource:
+  #   url: jdbc:postgresql://localhost:5435/mydatabase
+  #   username: myuser
+  #   password: secret
+  #   driver-class-name: org.postgresql.Driver
+  # jpa:
+  #   database: POSTGRESQL
   datasource:
-    url: jdbc:postgresql://localhost:5435/mydatabase
-    username: myuser
-    password: secret
-    driver-class-name: org.postgresql.Driver
+    url: jdbc:h2:mem:testdb
+    username: sa
+    password:
+    driver-class-name: org.h2.Driver
   jpa:
-    database: POSTGRESQL
+    database: H2
