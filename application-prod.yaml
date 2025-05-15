@@ -6,9 +6,9 @@ echo:
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5434/ecommdb
-    username: pguser
-    password: pgpass
+    url: jdbc:postgresql://localhost:5435/ecommdb
+    username: pguser1
+    password: pgpass1
     driver-class-name: org.postgresql.Driver
   jpa:
     database: POSTGRESQL
