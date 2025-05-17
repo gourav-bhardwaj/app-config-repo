@@ -12,3 +12,7 @@ spring:
     driver-class-name: org.postgresql.Driver
   jpa:
     database: POSTGRESQL
+
+global:
+  sport:
+    name: "CRICKET"
