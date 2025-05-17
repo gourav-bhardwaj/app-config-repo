@@ -7,7 +7,7 @@ echo:
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5434/ecommdb
-    username: pguser1
+    username: pguser
     password: pgpass
     driver-class-name: org.postgresql.Driver
   jpa:
