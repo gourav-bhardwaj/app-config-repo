@@ -1,7 +1,7 @@
 echo:
   message:
     text: 'This is my PROD-849-589-485!!'
-    label: "This PROD World OOps - &^%%$#11010"
+    label: "This PROD World OOps - 12989182"
 
 
 spring:
